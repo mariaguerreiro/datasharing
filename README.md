@@ -2,9 +2,6 @@ How to share data with a statistician
 ===========
 
 ### This code is associated with the this test 
-[http://dx.doi.org/10.7554/eLife.22323](eLife 2017, doi:10.7554/eLife.22323)
-
-Code associated, test
 
 This is a guide for anyone who needs to share data with a statistician. The target audiences I have in mind are:
 
